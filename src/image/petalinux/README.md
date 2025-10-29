@@ -1,0 +1,2 @@
+# Petalinux Image
+This directory contains the Petalinux image files for the project. It includes the necessary configurations and scripts to build and deploy the Petalinux image on the target hardware platform.

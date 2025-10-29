@@ -1,0 +1,2 @@
+# Controller
+This directory contains the controller logic for the TTL port module of the device. The controller is responsible for managing the interactions between the hardware abstraction layer (HAL) and the application logic, ensuring that commands are executed correctly and responses are handled appropriately. It serves as the interface between the user commands and the underlying hardware, facilitating communication and control of the device's TTL port functionality.

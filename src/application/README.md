@@ -1,0 +1,2 @@
+# Application Directory
+This directory contains the main application code for the project, which is different from service. This apps will be released for some platform or channel. Such as web, mobile, desktop, etc. By Google Play, App Store, Steam, etc.

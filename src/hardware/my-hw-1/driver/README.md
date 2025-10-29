@@ -1,0 +1,2 @@
+# Driver
+Driver code should near the hardware code. This directory contains the driver code for the hardware components of the project. It includes low-level drivers that interact directly with the hardware, providing an interface for higher-level application logic to communicate with the hardware devices.

@@ -1,0 +1,2 @@
+# Board
+PCBs, SBCs, etc. This directory contains the board-specific code and configurations for the hardware platform used in the project. It includes details about the board's architecture, pin mappings, and any specific configurations required for the hardware to function correctly.

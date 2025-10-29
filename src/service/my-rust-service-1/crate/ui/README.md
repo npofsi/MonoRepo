@@ -1,0 +1,2 @@
+# UI (User Interface)
+This directory contains the user interface components for the Rust service. It includes the frontend code, styles, and any other resources needed to build the UI of the service. The UI is designed to interact with the backend services and provide a seamless user experience.

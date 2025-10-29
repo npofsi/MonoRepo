@@ -1,0 +1,2 @@
+# Blueprint
+This directory contains the blueprint for the hardware project, including design documents, specifications, and other relevant information. It serves as a guide for the development and implementation of the hardware components.

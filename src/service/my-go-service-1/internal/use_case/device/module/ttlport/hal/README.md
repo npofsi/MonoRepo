@@ -1,0 +1,2 @@
+# HAL (Hardware Abstraction Layer)
+This directory contains the Hardware Abstraction Layer (HAL) for the TTL port module of the device. The HAL provides a standardized interface for interacting with hardware components, allowing for easier development and maintenance of the device's functionality.
